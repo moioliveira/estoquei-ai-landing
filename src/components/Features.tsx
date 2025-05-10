@@ -1,5 +1,5 @@
 
-import { Chart, Database, Layout, CogIcon } from "lucide-react";
+import { BarChart3, Database, Layout, CogIcon } from "lucide-react";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 
 const Features = () => {
@@ -12,7 +12,7 @@ const Features = () => {
     {
       title: "Previsão de Demanda com IA",
       description: "Antecipe as necessidades de estoque com modelos de IA que analisam históricos de vendas e tendências de mercado.",
-      icon: <Chart className="h-12 w-12 text-estoquei-600" />,
+      icon: <BarChart3 className="h-12 w-12 text-estoquei-600" />,
     },
     {
       title: "Dashboard Intuitivo",
