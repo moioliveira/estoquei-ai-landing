@@ -1,0 +1,73 @@
+
+<svg width="846" height="600" viewBox="0 0 846 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="846" height="600" rx="20" fill="#F1F5F9"/>
+  <rect x="40" y="40" width="766" height="520" rx="12" fill="white" stroke="#E2E8F0" strokeWidth="2"/>
+  <rect x="40" y="40" width="200" height="520" fill="#0284C7" fillOpacity="0.05"/>
+  <rect x="70" y="80" width="140" height="40" rx="8" fill="#0284C7"/>
+  <text x="100" y="105" fontFamily="Arial" fontSize="16" fill="white">eStoquei</text>
+  <rect x="70" y="160" width="140" height="36" rx="6" fill="#0284C7" fillOpacity="0.1"/>
+  <text x="100" y="183" fontFamily="Arial" fontSize="14" fill="#0284C7">Dashboard</text>
+  <rect x="70" y="210" width="140" height="36" rx="6" fill="transparent"/>
+  <text x="100" y="233" fontFamily="Arial" fontSize="14" fill="#64748B">Inventário</text>
+  <rect x="70" y="260" width="140" height="36" rx="6" fill="transparent"/>
+  <text x="100" y="283" fontFamily="Arial" fontSize="14" fill="#64748B">Balanceamento</text>
+  <rect x="70" y="310" width="140" height="36" rx="6" fill="transparent"/>
+  <text x="100" y="333" fontFamily="Arial" fontSize="14" fill="#64748B">Previsões</text>
+  <rect x="70" y="360" width="140" height="36" rx="6" fill="transparent"/>
+  <text x="100" y="383" fontFamily="Arial" fontSize="14" fill="#64748B">Relatórios</text>
+  <rect x="70" y="480" width="140" height="36" rx="6" fill="transparent"/>
+  <text x="100" y="503" fontFamily="Arial" fontSize="14" fill="#64748B">Configurações</text>
+  
+  <!-- Header Section -->
+  <rect x="260" y="60" width="520" height="60" rx="8" fill="#F8FAFC"/>
+  <text x="280" y="95" fontFamily="Arial" fontSize="18" fontWeight="bold" fill="#0F172A">Visão Geral do Estoque</text>
+  <circle cx="740" cy="90" r="20" fill="#0284C7" fillOpacity="0.1"/>
+  <text x="735" y="95" fontFamily="Arial" fontSize="16" fill="#0284C7">U</text>
+
+  <!-- Main Dashboard Stats -->
+  <rect x="260" y="140" width="250" height="120" rx="8" fill="#F0F9FF"/>
+  <text x="280" y="170" fontFamily="Arial" fontSize="14" fill="#64748B">Total de Produtos</text>
+  <text x="280" y="210" fontFamily="Arial" fontSize="24" fontWeight="bold" fill="#0F172A">12,543</text>
+  <path d="M460 200 L480 180 L500 190" stroke="#10B981" strokeWidth="2"/>
+  <text x="505" y="195" fontFamily="Arial" fontSize="14" fill="#10B981">+8.2%</text>
+
+  <rect x="530" y="140" width="250" height="120" rx="8" fill="#F0F9FF"/>
+  <text x="550" y="170" fontFamily="Arial" fontSize="14" fill="#64748B">Itens em Ruptura</text>
+  <text x="550" y="210" fontFamily="Arial" fontSize="24" fontWeight="bold" fill="#0F172A">215</text>
+  <path d="M730 200 L750 220 L770 215" stroke="#EF4444" strokeWidth="2"/>
+  <text x="775" y="220" fontFamily="Arial" fontSize="14" fill="#EF4444">-12.4%</text>
+
+  <rect x="260" y="280" width="250" height="120" rx="8" fill="#F0F9FF"/>
+  <text x="280" y="310" fontFamily="Arial" fontSize="14" fill="#64748B">Valor do Estoque</text>
+  <text x="280" y="350" fontFamily="Arial" fontSize="24" fontWeight="bold" fill="#0F172A">R$ 2.4M</text>
+  <path d="M460 340 L480 320 L500 330" stroke="#10B981" strokeWidth="2"/>
+  <text x="505" y="335" fontFamily="Arial" fontSize="14" fill="#10B981">+5.7%</text>
+
+  <rect x="530" y="280" width="250" height="120" rx="8" fill="#F0F9FF"/>
+  <text x="550" y="310" fontFamily="Arial" fontSize="14" fill="#64748B">Giro de Estoque</text>
+  <text x="550" y="350" fontFamily="Arial" fontSize="24" fontWeight="bold" fill="#0F172A">4.8</text>
+  <path d="M730 340 L750 320 L770 330" stroke="#10B981" strokeWidth="2"/>
+  <text x="775" y="335" fontFamily="Arial" fontSize="14" fill="#10B981">+2.3%</text>
+
+  <!-- Chart Section -->
+  <rect x="260" y="420" width="520" height="120" rx="8" fill="#F8FAFC"/>
+  <text x="280" y="450" fontFamily="Arial" fontSize="16" fontWeight="bold" fill="#0F172A">Balanceamento entre CDs</text>
+  
+  <!-- Bar Chart -->
+  <rect x="300" y="470" width="40" height="60" fill="#0284C7"/>
+  <rect x="360" y="470" width="40" height="30" fill="#0EA5E9"/>
+  <rect x="420" y="470" width="40" height="45" fill="#0284C7"/>
+  <rect x="480" y="470" width="40" height="20" fill="#0EA5E9"/>
+  <rect x="540" y="470" width="40" height="50" fill="#0284C7"/>
+  <rect x="600" y="470" width="40" height="25" fill="#0EA5E9"/>
+  <rect x="660" y="470" width="40" height="40" fill="#0284C7"/>
+  
+  <!-- X-axis labels -->
+  <text x="310" y="540" fontFamily="Arial" fontSize="10" fill="#64748B">CD-1</text>
+  <text x="370" y="540" fontFamily="Arial" fontSize="10" fill="#64748B">CD-2</text>
+  <text x="430" y="540" fontFamily="Arial" fontSize="10" fill="#64748B">CD-3</text>
+  <text x="490" y="540" fontFamily="Arial" fontSize="10" fill="#64748B">CD-4</text>
+  <text x="550" y="540" fontFamily="Arial" fontSize="10" fill="#64748B">CD-5</text>
+  <text x="610" y="540" fontFamily="Arial" fontSize="10" fill="#64748B">CD-6</text>
+  <text x="670" y="540" fontFamily="Arial" fontSize="10" fill="#64748B">CD-7</text>
+</svg>
